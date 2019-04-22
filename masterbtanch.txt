@@ -1,1 +1,2 @@
 this text is printed in master branch
+this is new text from bugfix branch
